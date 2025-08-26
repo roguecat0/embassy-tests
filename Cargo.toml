@@ -1,0 +1,3 @@
+[workspace]
+members = ["async_1"]
+resolver = "2"
