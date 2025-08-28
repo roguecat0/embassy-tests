@@ -1,3 +1,3 @@
 [workspace]
-members = ["async1","async2","async3"]
+members = ["async1","async2","async3","async4"]
 resolver = "2"
